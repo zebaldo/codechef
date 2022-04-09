@@ -1,4 +1,4 @@
-// 
+// https://www.codechef.com/problems/TRAVELFAST
 
 #include <iostream>
 
